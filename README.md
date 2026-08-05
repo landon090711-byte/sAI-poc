@@ -1,7 +1,7 @@
 # sAI
 Synapse AI 🧠
 A proof-of-concept local-first AI companion that learns from every conversation, builds a memory graph, and visualizes connections between concepts in real time.
-the code will be uploaded Aug 6 for now here is vercel deployment https://de875dc2esynapse-ai-fixed.vercel.app/
+the code will be uploaded Aug 6 for now here is vercel deployment https://de875dc2esynapse-ai-fixed.vercel.app/ also please use the memory export as a basic chat so you do not need to train the ai yourself
 
 What Is This?
 Synapse AI is a proof-of-concept project exploring what a privacy-first, browser-based AI companion could look like. It runs entirely client-side — no backend servers, no cloud APIs, no tracking. Everything you tell it stays in your browser's local storage.
